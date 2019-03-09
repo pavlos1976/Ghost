@@ -1,0 +1,88 @@
+  <dir>
+  <title>[COLORgreen]Kids Tv[/COLOR]</title>
+  <tmdb>genre/shows/10762</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+ <dir>
+    <title>[COLORgreen]Kids Boxset[/COLOR]</title>
+    <link>http://venomrepo.xyz/paul/xmls1/kids_boxset.xml</link>
+	<thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+   <dir>
+    <title>[COLORgreen]1Click Kids[/COLOR]</title>
+    <link>http://venomrepo.xyz/paul/xmls1/oneclickkids.xml</link>
+    <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+    <dir>
+    <title>[COLORgreen]Random Kids[/COLOR]</title>
+    <link>http://venomrepo.xyz/paul/xmls1/indexerkids.xml</link>
+    <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORgreen]Animation[/COLOR]</title>
+  <tmdb>genre/movies/16</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+
+  <dir>
+  <title>[COLORgreen]Animation Tv[/COLOR]</title>
+  <tmdb>genre/shows/16</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORgreen]Disney Channel[/COLOR]</title>
+  <tmdb>network/shows/54</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORgreen]Nickelodeon[/COLOR]</title>
+  <tmdb>network/shows/13</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORgreen]Cartoon Network[/COLOR]</title>
+  <tmdb>network/shows/56</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORgreen]Marvel Studios[/COLOR]</title>
+  <tmdb>company/movies/420</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+
+<dir>
+  <title>[COLORgreen]Search TMDB[/COLOR]</title>
+  <tmdb>search</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+</dir>
+
+<dir>
+  <title>[COLORgreen]Search Trakt[/COLOR]</title>
+  <trakt>search</trakt>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+</dir>
+
+
+
+
+  

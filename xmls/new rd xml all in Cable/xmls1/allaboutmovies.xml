@@ -1,0 +1,90 @@
+<dir>
+<title>[COLORgreen]Movie Docu[/COLOR]</title>  
+<tmdb>genre/movies/99</tmdb>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir> 
+
+<dir>
+<title>[COLORgreen]Movies Lists[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/movies.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir> 
+  
+<dir>
+<title>[COLORgreen]Movies Genres[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/genre_movies.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+  
+<dir>
+<title>[COLORgreen]Movies Year[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/movie-years.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+  
+<dir>
+<title>[COLORgreen]Movies Boxset[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/boxset.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+  
+<dir>
+<title>[COLORgreen]Random Movies[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/indexer%202.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+  
+<dir>
+<title>[COLORgreen]1Click Movies[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/oneclick.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+    
+<dir>
+<title>[COLORgreen]1Click RD Movies[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/DEBRID.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+	
+<dir>
+<title>[COLORgreen]1Click Collection[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/oneclickcollection.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+	
+<dir>
+<title>[COLORgreen]4k Movies[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/4k.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+  
+<dir>
+<title>[COLORgreen]4k RD Movies[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/4k2.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+  </dir>
+
+<dir>
+<title>[COLORgreen]Search TMDB[/COLOR]</title>
+<tmdb>search</tmdb>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORgreen]Search Trakt[/COLOR]</title>
+<trakt>search</trakt>
+<thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+</dir>

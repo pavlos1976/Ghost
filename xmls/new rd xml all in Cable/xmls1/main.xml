@@ -1,0 +1,94 @@
+
+
+<xml>
+  <dir>
+  <title>[COLORred]MOVIE[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/allaboutmovies.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/movie-hd-png-hd-movies-now-512.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/movies.jpg</fanart>
+  </dir> 
+  
+  <dir>
+  <title>[COLORred]SERIES[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/alltvshows.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+  </dir>
+
+  <dir>
+  <title>[COLORred]KIDS HUB[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/allkids.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORred]ANIME 18+[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/indexeranime.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/animation2.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/anime.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <name>[COLORred]GHOST IPTV[/COLOR]</name>
+  <link>http://venomrepo.xyz/paul/xmls1/iptv.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/iptv.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/iptv.jpg</fanart>
+  <summary>Live Tv</summary>
+  </dir>
+  
+  <dir>
+  <title>[COLORred]LIVETV 24/7[/COLOR]</title>
+  <arconaitv>shows</arconaitv>
+  <thumbnail>http://venomrepo.xyz/paul/art/movie24.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/movie24.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORred]SEARCH TMDB[/COLOR]</title>
+  <tmdb>search</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/tmdb.png</thumbnail>
+  </dir>
+
+  <dir>
+   <title>[COLORred]SEARCH TRAKT[/COLOR]</title>
+  <trakt>search</trakt>
+  <thumbnail>http://venomrepo.xyz/paul/art/trakt.png</thumbnail>
+  </dir>
+  
+  <dir>
+   <title>[COLORred]GHOST SETTINGS[/COLOR]</title>
+   <link>http://venomrepo.xyz/paul/xmls1/allsettings.xml</link>
+   <thumbnail>http://venomrepo.xyz/paul/art/settings.png</thumbnail>
+   <summary>Settings</summary>
+  </dir>
+  </xml>
+	
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

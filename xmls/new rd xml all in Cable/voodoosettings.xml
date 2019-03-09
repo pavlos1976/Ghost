@@ -1,0 +1,54 @@
+   <plugin>
+     <name>Real Debrid Resolve Url Login</name>
+    <link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+    <thumbnail>http://venomrepo.xyz/paul/art/real-debrid-addon.png</thumbnail>
+  </plugin>
+  
+   <plugin>
+    <name>Real Debrid Url Resolver Login</name>
+    <link>plugin://script.module.urlresolver/?mode=auth_rd</link>
+    <thumbnail>http://venomrepo.xyz/paul/art/real-debrid-addon.png</thumbnail>
+  </plugin>
+  
+    <plugin>
+    <title>Clear Cache</title>
+    <link>plugin://plugin.video.voodoo/?mode=clearCache</link>
+    <thumbnail>http://venomrepo.xyz/paul/art/cache.png</thumbnail>
+  </plugin>
+  
+  <plugin>
+    <title>Settings</title>
+    <link>plugin://plugin.video.voodoo/?action=openSettings</link>
+   <thumbnail>http://venomrepo.xyz/paul/art/settings.png</thumbnail>
+    <summary>Settings</summary>
+  </plugin>
+  </xml>
+	
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

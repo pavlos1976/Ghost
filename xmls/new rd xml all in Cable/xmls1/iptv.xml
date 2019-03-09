@@ -1,0 +1,47 @@
+<plugin>
+<title>[COLOR blue][B]Ghost Livenet Tv[/B][/COLOR]</title>
+<link>plugin://script.module.ghost-livenet</link>
+<thumbnail>http://venomrepo.xyz/paul/art/iptvin.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/iptvin.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR blue][B]Ghost Tap Tv[/B][/COLOR]</title>
+<link>plugin://script.module.ghost-tvtap</link>
+<thumbnail>http://venomrepo.xyz/paul/art/iptvin.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/iptvin.jpg</fanart>
+</plugin>
+ 
+<dir>
+<title>[COLOR yellow]Fluxus TV[/COLOR]</title>
+<m3u>https://pastebin.com/raw/dzBiY3sw</m3u>
+ <thumbnail>http://venomrepo.xyz/paul/art/iptvin.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/iptvin.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR yellow]Fluxus Radio[/COLOR]</title>
+<m3u>https://pastebin.com/raw/EBCkmuVp</m3u>
+<thumbnail>http://venomrepo.xyz/paul/art/iptvin.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/iptvin.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR yellow]Fluxus Lust (Adults)[/COLOR]</title>
+<m3u>https://pastebin.com/raw/t3Wx0Z5y</m3u>
+<thumbnail>http://venomrepo.xyz/paul/art/iptvin.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/iptvin.jpg</fanart>
+</dir>
+
+
+
+
+
+
+
+
+
+
+
+
+

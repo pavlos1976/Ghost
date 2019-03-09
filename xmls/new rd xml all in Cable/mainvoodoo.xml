@@ -1,0 +1,94 @@
+  <dir>
+  <title>[COLORyellow]MOVIES[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/allaboutmovies.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/movie2.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/movies.jpg</fanart>
+  </dir> 
+  
+  <dir>
+  <title>[COLORyellow]TV SHOWS[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/alltvshows.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/tv2.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/show.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORyellow]ALL FOR KIDS[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/allkids.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/kids2.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/kids.jpg</fanart>
+  </dir>
+ 
+  <dir>
+  <title>[COLORyellow]ANIME ADULT[/COLOR]</title>
+  <link>http://venomrepo.xyz/paul/xmls1/indexeranime.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/anime.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/anime.jpg</fanart>
+  </dir>
+ 
+  <dir>
+  <title>[COLORyellow]MOVIE-TV 24/7[/COLOR]</title>
+  <arconaitv>shows</arconaitv>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/247.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/247.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <name>[COLORyellow]VOODOO IPTV[/COLOR]</name>
+  <link>http://venomrepo.xyz/voodoo/voodooiptv.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/iptv2.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/iptv.jpg</fanart>
+  <summary>Live Tv</summary>
+  </dir>
+  
+  <dir>
+  <title>[COLORyellow]VOODOO 1CLICKS[/COLOR]</title>
+  <link>http://venomrepo.xyz/voodoo/voodoo1clicks.xml</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  </dir>
+ 
+  <dir>
+  <title>[COLORyellow]SEARCH ALL TMDB[/COLOR]</title>
+  <tmdb>search</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/tmdb.png</thumbnail>
+  </dir>
+
+  <dir>
+   <title>[COLORyellow]SEARCH ALL TRAKT[/COLOR]</title>
+  <trakt>search</trakt>
+  <thumbnail>http://venomrepo.xyz/paul/art/trakt.png</thumbnail>
+  </dir>
+  
+  <dir>
+   <title>[COLORyellow]VOODOO SETTINGS[/COLOR]</title>
+   <link>http://venomrepo.xyz/voodoo/voodoosettings.xml</link>
+   <thumbnail>http://venomrepo.xyz/paul/art/settings.png</thumbnail>
+   <summary>Settings</summary>
+  </dir>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

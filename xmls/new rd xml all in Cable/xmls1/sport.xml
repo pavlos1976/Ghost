@@ -1,0 +1,35 @@
+<dir>
+<title>[B][COLORred]GHOST WORLD SPORTS[/COLOR][/B]</title>
+<thumbnail>http://venomrepo.xyz/paul/art/sports.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/sports.jpg</fanart>
+<link>plugin://script.module.ghost-worldtv/list_channels/1</link>
+</dir>
+
+<dir>
+<title>[B][COLORred]GHOST TV TAP SPORTS[/COLOR][/B]</title>
+<thumbnail>http://venomrepo.xyz/paul/art/sports.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/sports.jpg</fanart>
+<link>plugin://script.module.ghost-tvtap/list_channels/5</link>
+</dir>
+
+<dir>
+<title>[B][COLORred]GHOST LIVENET SPORTS[/COLOR][/B]</title>
+<thumbnail>http://venomrepo.xyz/paul/art/sports.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/sports.jpg</fanart>
+<link>plugin://script.module.ghost-livenet/list_channels/1</link>
+</dir>
+
+<dir>
+<title>[B][COLORred] GHOST SWIFTSTREAMZ SPORTS [/COLOR][/B]</title>
+<thumbnail>http://venomrepo.xyz/paul/art/sports.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/sports.jpg</fanart>
+<link>plugin://script.module.ghostswiftstreamz/list_channels/1</link>
+</dir>
+
+<dir>
+<title>[B][COLORred]GHOST MOBDRO SPORTS[/COLOR][/B]</title>
+<thumbnail>http://venomrepo.xyz/paul/art/sports.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/sports.jpg</fanart>
+<link>plugin://script.module.ghost-mobdro/list_channels/sports</link>
+</dir>
+

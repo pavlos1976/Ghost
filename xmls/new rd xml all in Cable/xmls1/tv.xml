@@ -1,0 +1,75 @@
+<dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Popular Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>TV Watchlist TRAKT</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>TV Collection TRAKT</title>
+  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Most Watched</title>
+  <trakt>https://api.trakt.tv/shows/watched/weekly</trakt>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Anticipated</title>
+  <trakt>https://api.trakt.tv/shows/anticipated</trakt>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Collected</title>
+  <trakt>https://api.trakt.tv/shows/collected/weekly</trakt>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+<dir>
+  <title>TMDB Airing Today</title>
+  <tmdb>tv/today</tmdb>
+   <thumbnail>http://venomrepo.xyz/paul/art/showsin.png</thumbnail>
+	<fanart>http://venomrepo.xyz/paul/art/showsin.jpg</fanart>
+</dir>
+
+
+
+
+
+

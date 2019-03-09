@@ -1,0 +1,27 @@
+ <dir>
+  <title>[COLORred]HORROR MOVIES 1CLICK[/COLOR]</title>
+  <link>http://venomrepo.xyz/voodoo/oneclickhorror.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/horror.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/horror.jpg</fanart>
+  </dir> 
+  
+  <dir>
+  <title>[COLORred]SPORTS MOVIES 1CLICK[/COLOR]</title>
+  <link>http://venomrepo.xyz/voodoo/oneclicksports.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/sports.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/sports.jpg</fanart>
+  </dir> 
+  
+  <dir>
+  <title>[COLORred]WAR MOVIES 1CLICK[/COLOR]</title>
+  <link>http://venomrepo.xyz/voodoo/war.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/war.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/war.jpg</fanart>
+  </dir>
+  
+  <dir>
+  <title>[COLORred]DOCU MOVIES 1CLICK[/COLOR]</title>
+  <link>http://venomrepo.xyz/voodoo/docu.xml</link>
+  <thumbnail>http://venomrepo.xyz/voodoo/art/Documentary.png</thumbnail>
+  <fanart>http://venomrepo.xyz/voodoo/art/docu.jpg</fanart>
+  </dir>

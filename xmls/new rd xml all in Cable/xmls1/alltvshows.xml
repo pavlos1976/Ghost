@@ -1,0 +1,71 @@
+<dir>
+<title>[COLORgreen]TV Docu[/COLOR]</title>
+<tmdb>genre/shows/99</tmdb>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir> 
+
+<dir>
+<title>[COLORgreen]Tv Shows Lists[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/tv.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORgreen]Random Tv shows[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/indexer3.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORgreen]1Click Tv Shows[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/tvshows.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
+  
+<dir>
+<title>[COLORgreen]Tv Shows Genres[/COLOR]</title>
+<link>http://venomrepo.xyz/paul/xmls1/genre_tv.xml</link>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir> 
+
+<dir>
+<title>[COLORgreen]US Networks[/COLOR]</title>
+<summary>US NETWORKS</summary>
+<tvmaze>country/United States/1</tvmaze>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORgreen]UK Networks[/COLOR]</title>
+<summary>UK NETWORKS</summary>
+<tvmaze>country/United Kingdom/1</tvmaze>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+<fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORgreen]Online Channels[/COLOR]</title>
+<summary>NETFLIX/AMAZON/HULU</summary>
+<tvmaze>web_channel/1</tvmaze>
+<thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail> <fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
+
+<dir>
+  <title>[COLORgreen]Search TMDB[/COLOR]</title>
+  <tmdb>search</tmdb>
+  <thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
+
+<dir>
+  <title>[COLORgreen]Search Trakt[/COLOR]</title>
+  <trakt>search</trakt>
+  <thumbnail>http://venomrepo.xyz/paul/art/tv.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/tv1.jpg</fanart>
+</dir>
